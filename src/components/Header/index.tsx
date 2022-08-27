@@ -12,8 +12,6 @@ export const Header: React.FC = () => {
       <ImageContainer onClick={() => history.push('/')} src={eIcon} alt="LOGO_DA_EMPRESA" />
       <nav>
         <Link to="/">Home</Link>
-        <Link to="/login">Login</Link>
-        <Link to="/register">Register</Link>
       </nav>
     </HeaderContainer>
   );
