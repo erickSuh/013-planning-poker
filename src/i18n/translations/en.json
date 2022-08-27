@@ -1,0 +1,58 @@
+{
+  "common": {
+    "login_success_message": "Welcome back!",
+    "logout_success_message": "You're not logged anymore!",
+    "success_recovery_email_send": "Recovery e-mail send. Check your e-mail and follow the link.",
+    "created_user": "Now, you have a user. Welcome to login application!",
+    "generic_error": "Sorry, we have a problem. Please try again."
+  },
+  "login": {
+    "title": "SIGN IN",
+    "email": "E-mail",
+    "password": "Password",
+    "submit": "Submit",
+    "not_registered": "Not registered?",
+    "sign_up": "Sign up",
+    "invalid_email": "Invalid e-mail",
+    "invalid_password": "Invalid password",
+    "auth/invalid-email": "Invalid login! Check your e-mail and password and try again",
+    "auth/wrong-password": "Invalid login! Check your e-mail and password and try again",
+    "auth/user-not-found": "Sorry, but this user not exist",
+    "forgot_your_password": "Forgot your password?",
+    "recover_password": "Recover password"
+  },
+  "register": {
+    "title": "SIGN UP",
+    "email": "E-mail",
+    "password": "Password",
+    "confirm_password": "Confirm password",
+    "submit": "Submit",
+    "not_registered": "Not registered?",
+    "sign_in": "Sign in",
+    "invalid_email": "Invalid e-mail",
+    "invalid_password": "Invalid password",
+    "password_instructions": "Password need at least a letter, a capitalized letter, a special character, a number and minimum of 8 digits",
+    "invalid_confirm_password": "Confirm password is different of password",
+    "auth/invalid-email": "Invalid login! Check your e-mail and password and try again",
+    "auth/wrong-password": "Invalid login! Check your e-mail and password and try again",
+    "auth/user-not-found": "Invalid login! Check your e-mail and password and try again"
+  },
+  "recover_password": {
+    "title": "Recover password",
+    "recover_instructions": "We will send a recovery password link to your email. Verify your spam box if you not received",
+    "auth/user-not-found": "Sorry, we don't find this user.",
+    "email": "E-mail",
+    "submit": "Submit",
+    "sign_up": "Sign up"
+  },
+  "home": {
+    "home": "Home",
+    "title": "WELCOME TO LOGIN APPLICATION",
+    "subtitle": "Click on the button to do login!",
+    "subtitle_logout": "Click on the button to do logout!",
+    "subtitle_logout_error": "Sorry, we have a logout problem. Try again, please",
+    "login": "Login",
+    "logout": "Logout",
+    "logout_success": "Successful logout!"
+  }
+}
