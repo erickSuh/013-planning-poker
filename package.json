@@ -1,6 +1,6 @@
 {
-  "name": "405-login-firebase",
-  "version": "0.1.0",
+  "name": "011-planning-poker",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
@@ -32,6 +32,7 @@
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
     "@commitlint/config-conventional": "^12.1.1",
+    "@types/uuid": "^8.3.4",
     "@typescript-eslint/eslint-plugin": "^4.23.0",
     "@typescript-eslint/parser": "^4.23.0",
     "commitizen": "^4.2.4",

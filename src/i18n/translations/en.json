@@ -10,7 +10,8 @@
     "home": "Home",
     "title": "WELCOME TO PLANNING POKER API",
     "create_room": "Create room",
-    "create": "CREATE"
+    "create": "CREATE",
+    "user_name": "Your name"
   },
   "room": {
     "select_value": "Selecione um valor:"
